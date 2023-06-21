@@ -1,0 +1,1 @@
+# mir-taks-vanilla-project
